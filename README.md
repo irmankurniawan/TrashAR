@@ -1,0 +1,2 @@
+# TrashAR
+Augmented Reality Project
